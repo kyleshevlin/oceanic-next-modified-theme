@@ -6,3 +6,13 @@ Currently, `Agila Oceanic Next` colors object keys the same shade of green as it
 
 Hope this helps. Enjoy! 
 
+## Installation
+
+The details of the installation are up to you. Here are some options:
+
+1. Copy/paste this theme over the top of your current `Agila Oceanic Next` theme.
+2. Clone the repo, symlink the theme file to your Package folder (that's what I'm doing).
+3. Manually place the file in the correct folder.
+
+You've got this!
+
